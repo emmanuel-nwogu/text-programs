@@ -10,7 +10,7 @@ public class countVowels {
     }
     
     public static int Count(String string) {
-        char[] vowels = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'};
+        char[] vowels = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'};  // an array of every vowel in the two cases (lower and upper)
         int vowelCount = 0;
         for (int i = 0; i < string.length(); i++) {
             for (char vowel : vowels) {
