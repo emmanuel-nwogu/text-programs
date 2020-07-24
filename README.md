@@ -2,4 +2,4 @@
 
 This repository contains programs I have written that manipulate strings.
 
-Languages: **Python** , **Java**
+Languages: **Python**, **Java**
